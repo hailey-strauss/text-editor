@@ -31,4 +31,4 @@ The purpose is creating and editing plain text files.
 
 <a name="Github"></a>
 
-https://github.com/hailey-strauss/notetaker
+https://github.com/hailey-strauss/text-editor
